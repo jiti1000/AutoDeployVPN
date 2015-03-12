@@ -1,6 +1,6 @@
-# AutoDeployVPN
+# CentOS上自动安装PPTP VPN
 
-# AutoDeployVPN 实现的功能
+# 实现的功能
 在 CentOS 5/6 上一键自动部署 PPTP 类型 VPN 服务器的 Bash 脚本。
 
 
